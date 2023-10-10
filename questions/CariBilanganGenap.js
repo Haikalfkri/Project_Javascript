@@ -10,4 +10,5 @@ function cariBilanganGenap(array) {
      // Tulis kodemu disini
 }
 
+// ini module
 module.exports = cariBilanganGenap;
